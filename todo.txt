@@ -1,0 +1,5 @@
+mission:
+1. store the lyrics in ES
+2. store the genres in ES X
+3. clean duplicates in both indices
+4. for each doc in genres, query in lyrics, then add its genre in a field
